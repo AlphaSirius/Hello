@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HelloApp</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="App_hello_message">Hello user</string>
+    <string name="action_settings">Settings</string>
+    <string name="xyz_activity">Hello XYZ</string>
+
+    <string name="COGNITO_IDENTITY_POOL">us-east-1:5d582e8e-07d1-4aa5-a386-e53ee7c708b7</string>
+    <string name="APP_ID">fbfcbe37d5584cc29271a1e24aa0f08d</string>
+</resources>
