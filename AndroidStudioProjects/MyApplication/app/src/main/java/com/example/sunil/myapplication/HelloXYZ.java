@@ -1,7 +1,7 @@
 package com.example.sunil.myapplication;
 
 /**
- * Created by sunil on 28/7/15.
+ * Created by sunil on 28/7/18
  */
 import android.app.Activity;
 import android.content.Intent;
@@ -39,7 +39,7 @@ public class HelloXYZ  extends Activity{
            sendBroadcast(it);
 
      }
-
+///1111111111111111111111111
 
 
 
